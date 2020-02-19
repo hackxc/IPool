@@ -20,7 +20,3 @@ From:http://www.hackxc.cc/?post=20
 扫描完成后会显示可用IP列表，同时自动保存到success_ip.txt
 
 ![img](https://github.com/hackxc/IPool/blob/master/img/demo2.png)
-
-浏览器重启，开启代理即可使用
-
-![img](https://github.com/hackxc/IPool/blob/master/img/demo3.png)
