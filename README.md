@@ -10,8 +10,7 @@ IPool  自动化IP池
 2.可以刷票，批量注册，如ip验的站
 
 3.可以验证有效代理访问xx网站等等
- 
-
+****
 输入要验证的网址，相当于这些ip可以访问哪个网址
 
 ![img](https://github.com/hackxc/IPool/blob/master/img/demo1.png)
