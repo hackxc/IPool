@@ -11,8 +11,6 @@ IPool  自动化IP池
 
 3.可以验证有效代理访问xx网站等等
 
-From:http://www.hackxc.cc/?post=20
-
 输入要验证的网址，相当于这些ip可以访问哪个网址
 
 ![img](https://github.com/hackxc/IPool/blob/master/img/demo1.png)
