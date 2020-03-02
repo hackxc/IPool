@@ -6,7 +6,6 @@ import os,sys
 import urllib3
 urllib3.disable_warnings()
 
-
 ips = []
 successip = []
 
@@ -60,7 +59,7 @@ def ipnn():
         portr = r'<td>(\d{1,5})</td>'
         portlist = re.findall(portr, req.content)
         for ip, port in zip(iplist, portlist):
-            successip.append(str(ip + ":" + port))
+            ips.append(str(ip + ":" + port))
     except:
         pass
 
